@@ -1,7 +1,7 @@
 import * as S from "./styles";
 import { FaFacebookF, FaTwitter, FaInstagram } from "react-icons/fa";
 import { MdPhoneInTalk } from "react-icons/md";
-import { AiTwotoneMail } from "react-icons/Ai";
+import { AiTwotoneMail } from "react-icons/ai";
 import Fylo from "../../images/logowhite.svg";
 
 export default function Footer() {
